@@ -40,11 +40,48 @@ Requirements and Grading
 
 Course requirements include regular attendance and participation in class which requires having read the assigned articles prior to coming to class and discussing them. The assignments include group-based and individual written projects and case analyses. Cases are listed in the [Readings section]({{< baseurl >}}/pages/readings).
 
-| Activities | Percentages |
-| --- | --- |
-| Attendance and participation | 30% |
-| Group assignments | 30% |
-| Individual assignments | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual assignments
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recitations
 -----------

@@ -19,13 +19,105 @@ Complete the following tasks:
 
 1\. Design a simple 1 period model of a CLO with the following attributes:
 
-| Assets (Loans) | Liabilities and Equity |
-| --- | --- |
-| **Par** | 500 | &nbsp; | **Par** | **Coupon** |
-| **Coupon** | 6% | **AAA** | 325 | 2.00% |
-| **Default Rate** | 0% | **Mezzanine** | 125 | 5.00% |
-| **Recovery Rate** | 70% | **Equity** | 20 | IRR |
-| **Management Fees and Expenses** | 1% || {{< td-colspan 3 >}} {{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assets (Loans)
+{{< thclose >}}
+{{< thopen >}}
+Liabilities and Equity
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Par**
+{{< tdclose >}}
+{{< tdopen >}}
+500
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Par**
+{{< tdclose >}}
+{{< tdopen >}}
+**Coupon**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Coupon**
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+{{< tdopen >}}
+**AAA**
+{{< tdclose >}}
+{{< tdopen >}}
+325
+{{< tdclose >}}
+{{< tdopen >}}
+2.00%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Default Rate**
+{{< tdclose >}}
+{{< tdopen >}}
+0%
+{{< tdclose >}}
+{{< tdopen >}}
+**Mezzanine**
+{{< tdclose >}}
+{{< tdopen >}}
+125
+{{< tdclose >}}
+{{< tdopen >}}
+5.00%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Recovery Rate**
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+{{< tdopen >}}
+**Equity**
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+IRR
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Management Fees and Expenses**
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Solve for the Asset Return, Debt Return and Equity Return.
 
