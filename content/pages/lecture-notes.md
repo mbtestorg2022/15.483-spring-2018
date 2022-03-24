@@ -128,7 +128,7 @@ Guest lecture: Katy Davis (Managing Director, [ideas42](http://www.ideas42.org/)
 
 No notes
 
-Related white paper: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Financial Health Check: Scalable Solutions for Financial Resilience (PDF - 4MB)](http://www.ideas42.org/wp-content/uploads/2018/03/Financial-Health-Check.pdf)
+Related white paper: [The Financial Health Check: Scalable Solutions for Financial Resilience (PDF - 4MB)](http://www.ideas42.org/wp-content/uploads/2018/03/Financial-Health-Check.pdf)
 
 
 {{< tdclose >}}
