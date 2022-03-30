@@ -16,7 +16,7 @@ This course meets during the first half of the term.
 Prerequisites
 -------------
 
-_[15.401 Managerial Finance](/courses/15-401-finance-theory-i-fall-2008/)_, _[15.414 Financial Management](/courses/15-414-financial-management-summer-2003/)_, or _15.415 Finance Theory_.
+_[15.401 Managerial Finance](/courses/15-401-finance-theory-i-fall-2008)_, _[15.414 Financial Management](/courses/15-414-financial-management-summer-2003)_, or _15.415 Finance Theory_.
 
 Course Overview
 ---------------
